@@ -2,13 +2,11 @@
 layout: home
 permalink: /
 ---
-<img alt="Carlos Pambo" src="/assets/images/carlos_pambo-headshot.png" style="width:200px; margin: 10px 10px 10px 10px;" />
+<img alt="Carlos Pambo" src="/assets/images/carlos_pambo-headshot.png" align="left" style="width:200px; margin: 10px 10px 10px 10px;" />
 
 I am a **Ph.D Candidate** at the [Département de génie informatique et génie logiciel (Department of Computer and Software Engineering)](https://www.polymtl.ca/gigl/) at Polytechnique Montréal, Canada.
 
-
 My research focuses on **enabling domain experts to efficiently capture and utilise their knowledge through a model-driven approach, to support digital engineering for complex cyber-physical systems**. The goal is to minimise the cognitive and time effort for constructing these systems, while still maximising the insights gained during the digital engineering process.
-
 
 My main research interests include:
 * digital twins, including their structure and construction
