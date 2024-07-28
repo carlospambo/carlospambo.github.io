@@ -1,0 +1,15 @@
+title: Carlos Pambo
+email: carlos.pambo@polymtl.ca
+description: >- # this means to ignore newlines until "baseurl:"
+  PhD Candidate, Polytechnique Montréal
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Build settings
+theme: minima
+
+header_pages:
+  - contact.markdown
+  - professional_experience.markdown
+
+show_excerpts: true
