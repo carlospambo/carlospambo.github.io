@@ -5,6 +5,7 @@ permalink: /experience/
 ---
 
 #### **CGI Inc. (Canada)**
+
 **Role:** Engineering Lead | Jun. 2023 to Present
 
 Engineering Lead at CGI’s telecommunications business unit. Consults at BellMedia Canada on the content discovery and data ingestion pipeline solutions project. Responsible for identifying requirements, developing design structures, and coordinating with the project lead to review timelines and technical deliverables. Analysis of ongoing projects and writing of progress reports for all the involved stakeholders. Leads a team of 10 that includes software engineers, business analysis and QA engineers. Oversees their performance in the projects. Conducted security and performance audits and system modifications for the development team, senior managers, and the respective product owners.
