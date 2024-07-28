@@ -15,13 +15,12 @@ My main research interests include:
 * the application of machine learning to cyber-physical systems
 * model-driven engineering techniques
 * model transformations and their verification
-* and others
 
-In 2023 received an MEng (Industrial), with a specialization in data science from the [Stellenbosch University](https://www.sun.ac.za/english) in Stellenbosch, South Africa. **An Evolutionary Algorithm for the Vehicle Routing Problem with Drones with Interceptions** was the research topic of this masters, having graduated top of the class with distinction **cum laude**.
+In 2023 received an _MEng (Industrial Engineering)_, with a specialization in data science from the [Stellenbosch University](https://www.sun.ac.za/english) in Stellenbosch, South Africa. **An Evolutionary Algorithm for the Vehicle Routing Problem with Drones with Interceptions** was the research topic of this master, having graduated top of the class with distinction (**cum laude**).
 
-Before that, in 2019 I received a Master of Business Administration (MBA) from [Regent Business School](https://regent.ac.za/) in Johannesburg, South Africa. May research topic was **Exploring the effects of mergers and acquisitions on employee job satisfaction: A case study of Reservations Request Inc., KwaZulu-Natal**.
+Before that, in 2019 I received a _Master of Business Administration (MBA)_ from [Regent Business School](https://regent.ac.za/) in Johannesburg, South Africa. May research topic was **Exploring the effects of mergers and acquisitions on employee job satisfaction: A case study of Reservations Request Inc., KwaZulu-Natal**.
 
-From 2012 to 2016, I attended the prestigious [Tshwane University of Technology](https://www.tut.ac.za/) in Pretoria, South Africa. Studying **BTech: Information Technology**, specializing in Intelligent Industrial Systems. I held an internship as part of a co-operative program between the university and [Pretoria Inovation Lab](https://www.theinnovationhub.com/). 
+From 2012 to 2016, I attended the prestigious [Tshwane University of Technology](https://www.tut.ac.za/) in Pretoria, South Africa. Studying _BTech: IT_, specializing in Intelligent Industrial Systems. I held an internship as part of a co-operative program between the university and [Pretoria Inovation Lab](https://www.theinnovationhub.com/). 
 
 For more information, please see [my resume](assets/resume/carlos_pambo-resume.pdf).
 
