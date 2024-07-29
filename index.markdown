@@ -2,7 +2,7 @@
 layout: home
 permalink: /
 ---
-<img alt="Carlos Pambo" src="/assets/images/carlos_pambo-headshot.png" align="left" style="width:220px; margin: 10px 10px 10px 10px;" />
+<img alt="Carlos Pambo" src="/assets/images/carlos_pambo-headshot.png" align="left" style="width:200px; margin: 10px 10px 10px 10px;" />
 
 I am a **PhD (Engineering) Candidate** at the [Département de génie informatique et génie logiciel (Department of Computer and Software Engineering)](https://www.polymtl.ca/gigl/) at Polytechnique Montréal, Canada.
 
