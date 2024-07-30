@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Professional Experiences
-permalink: /experience/
+permalink: /experience
 ---
 
 #### **CGI Inc. (Canada)**
