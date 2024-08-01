@@ -6,7 +6,7 @@ permalink: /
 
 I am a **PhD (Engineering) Candidate** at the [Département de génie informatique et génie logiciel (Department of Computer and Software Engineering)](https://www.polymtl.ca/gigl/) at Polytechnique Montréal, Canada.
 
-My research focuses on **supporting the construction of digital twins for complex cyber-physical systems using low-code approaches**. The goal is to minimise the cognitive and time effort for constructing these systems, while still maximising the insights gained during the digital engineering process.
+My research focuses on **supporting the construction of digital twins (DT) for complex cyber-physical systems using machine learning and low-code approaches**. The goal is to minimise the cognitive and time effort for constructing these systems, while still maximising the insights gained during the digital engineering process.
 
 My main research interests include:
 * digital twins, including their structure and construction
