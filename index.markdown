@@ -4,7 +4,7 @@ permalink: /
 ---
 <img alt="Carlos Pambo" src="/assets/images/carlos_pambo-headshot.png" align="left" style="width:200px; margin: 10px 10px 10px 10px;" />
 
-I am a **PhD (Engineering) Candidate** at the [Département de génie informatique et génie logiciel (Department of Computer and Software Engineering)](https://www.polymtl.ca/gigl/) at Polytechnique Montréal, Canada.
+I am a **PhD (Engineering) candidate** at the [Département de génie informatique et génie logiciel (Department of Computer and Software Engineering)](https://www.polymtl.ca/gigl/) at Polytechnique Montréal (Université de Montréal), Canada.
 
 My research focuses on **supporting the construction of digital twins (DT) for complex cyber-physical systems using machine learning and low-code approaches**. The goal is to minimise the cognitive and time effort for constructing these systems, while still maximising the insights gained during the digital engineering process.
 

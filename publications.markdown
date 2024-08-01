@@ -8,6 +8,6 @@ permalink: /publications
 
 Selected publications:
 
-* **C. Pambo**, J. Grobler. (2023) [*An Evolutionary Algorithm for the Vehicle Routing Problem with Drones with Interceptions*]. [paper](/assets/publications/EvolutionaryAlgorithmForVRPDi.pdf), [bib](/assets/publications/bib/EvolutionaryAlgorithmForVRPDi.bib)
+* **C. Pambo**, J. Grobler. (2023) [*An evolutionary algorithm for the vehicle routing problem with drones with interceptions*]. [paper](/assets/publications/EvolutionaryAlgorithmForVRPDi.pdf), [bib](/assets/publications/bib/EvolutionaryAlgorithmForVRPDi.bib)
 
 * **C. Pambo**, G. Hove. (2019) [*Exploring the effects of mergers and acquisitions on employee job satisfaction: A case study of Reservations Request Inc., KwaZulu-Natal*]. [paper](/assets/publications/ExploringEffects.pdf), [bib](/assets/publications/bib/ExploringEffects.bib)
