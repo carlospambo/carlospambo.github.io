@@ -6,5 +6,6 @@ permalink: /publications
 
 | [Google Scholar](https://scholar.google.ca/citations?user=???) | [ResearchGate](https://www.researchgate.net/profile/Carlos-Pambo) | [ORCID](https://orcid.org/0009-0008-9146-4658)|
 
-Selected papers:
+Selected publications:
 
+* **C. Pambo**, J. Grobler. (2023) [*An Evolutionary Algorithm for the Vehicle Routing Problem with Drones with Interceptions*]. [paper](/assets/publications/EvolutionaryAlgorithmForVRPDi.pdf), [bib](/assets/publications/bib/EvolutionaryAlgorithmForVRPDi.bib)
