@@ -6,7 +6,7 @@ permalink: /
 
 I am a **PhD (Engineering) candidate** at the [Département de génie informatique et génie logiciel (Department of Computer and Software Engineering)](https://www.polymtl.ca/gigl/) at Polytechnique Montréal (Université de Montréal), Canada.
 
-My research focuses on **supporting the construction of digital twins (DT) for complex cyber-physical systems using machine learning and low-code approaches**. The goal is to minimise the cognitive and time effort for constructing these systems, while still maximising the insights gained during the digital engineering process.
+My research focuses on **using machine learning and low-code approaches to support the construction of digital twins (DT) for complex cyber-physical systems**. The goal is to minimise the cognitive and time effort for constructing these systems, while still maximising the insights gained during the digital engineering process.
 
 My main research interests include:
 * digital twins, including their structure and construction
@@ -15,7 +15,7 @@ My main research interests include:
 * model-driven engineering techniques
 * evolutionary computing
 
-In 2023 received an _MEng (Industrial Engineering)_, with a specialization in data science from the [Stellenbosch University](https://www.sun.ac.za/english) in Stellenbosch, South Africa. **An Evolutionary Algorithm for the Vehicle Routing Problem with Drones with Interceptions** was the research topic of this master, having graduated top of the class with distinction (**cum laude**).
+In 2023 received an _MEng (Industrial Engineering)_ from [Stellenbosch University](https://www.sun.ac.za/english) in Stellenbosch, South Africa. I graduated top of the class with distinction (**cum laude**). The degree had a specialization in data science. My thesis was titled: **An Evolutionary Algorithm for the Vehicle Routing Problem with Drones with Interceptions**.
 
 Before that, in 2019 I received a _Master of Business Administration (MBA)_ from [Regent Business School](https://regent.ac.za/) in Johannesburg, South Africa. May research topic was **Exploring the effects of mergers and acquisitions on employee job satisfaction: A case study of Reservations Request Inc., KwaZulu-Natal**.
 
