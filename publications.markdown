@@ -10,7 +10,7 @@ Selected publications:
 
 | 2024 |<font color="#00bb00">Article</font>| [*An evolutionary algorithm for the vehicle routing problem with drones with interceptions*](/assets/publications/CPambo2024Algorithm.pdf) | **C. Pambo**, J. Grobler. | (2024) | [paper](/assets/publications/CPambo2024Algorithm.pdf), [bib](/assets/publications/bib/CPambo2024Algorithm.bib) |
 
-| 2024 |<font color="#0000cc">Journal Article</font>| [*Differential evolution algorithms for the travelling salesman problem with drones with interceptions*](/assets/publications/) | R. Ernst, T. Moremi, **C. Pambo**, J. Grobler., F. Knoetze | Computers & Industrial Engineering Journal (2023)| [paper](/assets/publications/), [bib](/assets/publications/bib/) |
+[//]: # (| 2024 |<font color="#0000cc">Journal Article</font>| [*Differential evolution algorithms for the travelling salesman problem with drones with interceptions*]&#40;/assets/publications/&#41; | R. Ernst, T. Moremi, **C. Pambo**, J. Grobler., F. Knoetze | Computers & Industrial Engineering Journal &#40;2023&#41;| [bib]&#40;/assets/publications/bib/&#41; |)
 
 | 2023 |<font color="#dd0000">Master's Thesis</font>| [*An evolutionary algorithm for the vehicle routing problem with drones with interceptions*](/assets/publications/CPambo2023Algorithm.pdf) | **C. Pambo**. | Stellenbosch University (2023) | [paper](/assets/publications/CPambo2023Algorithm.pdf), [bib](/assets/publications/bib/CPambo2023Algorithm.bib) |
 
