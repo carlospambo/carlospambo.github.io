@@ -6,10 +6,10 @@ permalink: /
 
 I am a **PhD (Engineering) candidate** at the [Département de génie informatique et génie logiciel (Department of Computer and Software Engineering)](https://www.polymtl.ca/gigl/) at Polytechnique Montréal (Université de Montréal), Canada, under the supervisor of [_Dr. Bentley Oakes_](https://www.polymtl.ca/expertises/oakes-bentley).
 
-My research focuses on **the use of machine learning and other low-code approaches to accelerate the construction of digital twins (DT) for complex cyber-physical systems**. The goal is to minimise the cognitive and time effort for constructing these systems, while still maximise the insights gained during the digital engineering process.
+My research focuses on **the use of machine learning (ML) and low-code approaches to accelerate the construction of digital twins (DT) for complex cyber-physical systems**. The goal is to minimise the cognitive and time effort for constructing these systems, while still maximise the insights gained during the digital engineering process.
 
 My main research interests include:
-* digital twins (DT), their structures and construction process
+* digital twins, their structures and construction process
 * formal verification and validation of cyber-physical systems
 * application of machine learning in cyber-physical systems
 * model and ontology driven engineering techniques
