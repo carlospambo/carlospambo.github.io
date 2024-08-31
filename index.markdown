@@ -6,13 +6,14 @@ permalink: /
 
 I am a **Ph.D. (Computer Engineering) candidate** at the [Département de Génie Informatique et Génie Logiciel (Department of Computer and Software Engineering)](https://www.polymtl.ca/gigl/) at Polytechnique Montréal, Montréal, Canada, under the supervisor of [_Dr. Bentley Oakes_](https://www.polymtl.ca/expertises/oakes-bentley).
 
-My research focuses on **the use of machine learning (ML) and low-code approaches to accelerate the construction of digital twins (DT) for complex cyber-physical systems**. The goal is to minimise the cognitive and time effort for constructing these systems, while still maximize the insights gained during the digital engineering process.
+My research focuses on **the use of machine learning (ML) approaches to accelerate the construction of digital twins (DT) for complex cyber-physical systems**. The goal is to minimise the cognitive and time effort for constructing these systems, while still maximize the insights gained during the digital engineering process.
 
 My main research interests include:
 * digital twins, their structures and construction process
 * formal verification and validation of cyber-physical systems
-* application of machine learning in cyber-physical systems
 * model and ontology driven engineering techniques
+* application of machine learning in cyber-physical systems
+* real time data processing and recommendation systems
 * evolutionary computing
 
 In 2023 received a _M.Eng. (Industrial Engineering)_ from [Stellenbosch University](https://www.sun.ac.za/english), Stellenbosch, South Africa. 
