@@ -4,7 +4,7 @@ permalink: /
 ---
 <img alt="Carlos Pambo" src="/assets/images/carlos_pambo-headshot.png" align="left" style="width:200px; margin: 10px 10px 10px 10px;" />
 
-I am a **Ph.D. (Computer Engineering) candidate** at the [Département de Génie Informatique et Génie Logiciel (Department of Computer and Software Engineering)](https://www.polymtl.ca/gigl/) at Polytechnique Montréal, Montréal, Canada, under the supervisor of [_Dr. Bentley Oakes_](https://www.polymtl.ca/expertises/oakes-bentley).
+I am a **Ph.D. (Computer Engineering) student** at the [Département de Génie Informatique et Génie Logiciel (Department of Computer and Software Engineering)](https://www.polymtl.ca/gigl/) at Polytechnique Montréal, Montréal, Canada, under the supervisor of [_Dr. Bentley Oakes_](https://www.polymtl.ca/expertises/oakes-bentley).
 
 My research focuses on **the use of machine learning (ML) approaches to accelerate the construction of digital twins (DT) for complex cyber-physical systems**. The goal is to minimise the cognitive and time effort for constructing these systems, while still maximize the insights gained during the digital engineering process.
 
