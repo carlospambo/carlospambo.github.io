@@ -6,7 +6,7 @@ permalink: /experience
 
 #### **CGI Inc. (Canada)**
 
-**Role:** Engineering Lead | Jun. 2023 to Present
+**Role:** Technical Lead | Jun. 2023 to Present
 
 Technical lead at CGI’s telecommunication business unit. I consult at BellMedia Canada on the content and data discovery ingestion pipeline projects. 
 Responsible for identifying requirements, developing design structures, and coordinating with the product owners to review timelines and technical deliverables. 
@@ -22,7 +22,7 @@ Conducts security and performance audits and system modifications for the develo
 
 Solutions architect at BMW Group’s financial services business unit for the DCS and Trade-In products at BMW Group’s future sales model program initiative,
 charged with positioning the BMW Group to adopt a direct to consumer sales model. 
-Left the position to take up an **_Engineering lead_** position at **CGI Inc.**, and relocated to Montréal, Canada.
+Left the position to take up a **_Technical lead_** position at **CGI Inc.**, and relocated to Montréal, Canada.
 
 **Role:** Senior Software Engineer | Jun. 2021 to Jul. 2022
 
