@@ -25,7 +25,7 @@ My research topic was **Exploring the effects of mergers and acquisitions on emp
 A case study of Reservations Request Inc., KwaZulu-Natal**, under the supervision of _Dr. George Hove_.
 
 From 2012 to 2016, I attended the prestigious [Tshwane University of Technology](https://www.tut.ac.za/), Pretoria, South Africa.
-Received a _B.Tech. (Computer Engineering)_, with a specialization in _Intelligent Industrial Systems_.
+Received a _B.Tech. (Information Technology)_, with a specialization in _Intelligent Industrial Systems_.
 I held an internship as part of a co-operative program between the university and the [Pretoria Innovation Lab](https://www.theinnovationhub.com/). 
 
 For more information, please see [my resume](assets/resume/CPamboResume.pdf).
