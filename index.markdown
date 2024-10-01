@@ -16,15 +16,14 @@ My main research interests include:
 * real time data processing and recommendation systems
 * evolutionary computing
 
-In 2023 received a _M.Eng. (Industrial Engineering)_ from [Stellenbosch University](https://www.sun.ac.za/english), Stellenbosch, South Africa. 
+In 2023 received an _M.Eng. (Industrial Engineering)_ from [Stellenbosch University](https://www.sun.ac.za/english), Stellenbosch, South Africa. 
 I graduated top of the class with distinction (**cum laude**). The degree has a specialization focus in _Data Science_. 
 My thesis was titled: **An Evolutionary Algorithm for the Vehicle Routing Problem with Drones with Interceptions (VRPDi)**, under the supervision of [_Prof. Jacomine Grobler_](https://scholar.google.co.za/citations?user=_Fm9-S8AAAAJ&hl=en).
 
-Before that, in 2019 I received an _Master of Business Administration (MBA)_ from [Regent Business School](https://regent.ac.za/), Johannesburg, South Africa.
+Before that, in 2019 I received a _Master of Business Administration (MBA)_ from [University of South Africa](https://www.unisa.ac.za/), Johannesburg, South Africa.
 My research topic was **Exploring the effects of mergers and acquisitions on employee job satisfaction:
 A case study of Reservations Request Inc., KwaZulu-Natal**, under the supervision of _Dr. George Hove_.
 
 From 2012 to 2016, I attended the prestigious [Tshwane University of Technology](https://www.tut.ac.za/), Pretoria, South Africa.
-Received a _B.Tech. (Computer Engineering)_.
-I held an internship as part of a co-operative program between the university and the [Pretoria Innovation Lab](https://www.theinnovationhub.com/).
+Received a _B.Tech. (Computer Engineering)_. I held an internship as part of a co-operative program between the university and the [Pretoria Innovation Lab](https://www.theinnovationhub.com/).
 
