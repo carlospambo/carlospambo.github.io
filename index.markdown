@@ -21,7 +21,7 @@ I graduated top of the class with distinction (**cum laude**). The degree has a 
 My thesis was titled: **An Evolutionary Algorithm for the Vehicle Routing Problem with Drones with Interceptions (VRPDi)**, under the supervision of [_Prof. Jacomine Grobler_](https://scholar.google.co.za/citations?user=_Fm9-S8AAAAJ&hl=en).
 
 Before that, in 2019 I received a _Master of Business Administration (MBA)_ from [University of South Africa](https://www.unisa.ac.za/), Johannesburg, South Africa.
-My mini-thesis topic was **Exploring the effects of mergers and acquisitions on employee job satisfaction:
+My mini-thesis topic was titled: **Exploring the effects of mergers and acquisitions on employee job satisfaction:
 A case study of Reservations Request Inc., KwaZulu-Natal**, under the supervision of _Dr. George Hove_.
 
 From 2012 to 2016, I attended the prestigious [Tshwane University of Technology](https://www.tut.ac.za/), Pretoria, South Africa.
