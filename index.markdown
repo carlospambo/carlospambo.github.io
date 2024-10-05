@@ -10,7 +10,6 @@ My research focuses on **the use of machine learning (ML) approaches to accelera
 
 My main research interests include:
 * digital twins, their structures and construction process
-* formal verification and validation of cyber-physical systems
 * model and ontology driven engineering techniques
 * application of machine learning in cyber-physical systems
 * real time data processing and recommendation systems
