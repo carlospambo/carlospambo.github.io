@@ -9,7 +9,7 @@ permalink: /publications
 
 Selected publications:
 
-| 2024 | <font color="#0000cc">Article</font> | [*An evolutionary algorithm for the vehicle routing problem with drones with interceptions*](/assets/publications/CPambo2024Algorithm.pdf) | **C. Pambo**, J. Grobler. | Submitted (2024) | [paper](/assets/publications/CPambo2024Algorithm.pdf), [bib](/assets/publications/bib/CPambo2024Algorithm.bib) |
+| 2024 | <font color="#0000cc">Journal Article</font> | [*An evolutionary algorithm for the vehicle routing problem with drones with interceptions*](/assets/publications/CPambo2024Algorithm.pdf) | **C. Pambo**, J. Grobler. | Preprint (2024) | [paper](/assets/publications/CPambo2024Algorithm.pdf), [bib](/assets/publications/bib/CPambo2024Algorithm.bib) |
  
 | 2023 | <font color="#dd0000">Master's thesis</font> | [*An evolutionary algorithm for the vehicle routing problem with drones with interceptions*](/assets/publications/CPambo2023Algorithm.pdf) | **C. Pambo**. | Stellenbosch University (2023) | [paper](/assets/publications/CPambo2023Algorithm.pdf), [bib](/assets/publications/bib/CPambo2023Algorithm.bib) |
 
