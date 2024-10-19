@@ -19,7 +19,7 @@ In 2023 received an _M.Eng. (Industrial Engineering)_ from [Stellenbosch Univers
 I graduated top of the class with distinction (**cum laude**). The degree has a specialization focus in _Data Science_. 
 My thesis was titled: **An Evolutionary Algorithm for the Vehicle Routing Problem with Drones with Interceptions (VRPDi)**, under the supervision of [_Prof. Jacomine Grobler_](https://scholar.google.co.za/citations?user=_Fm9-S8AAAAJ&hl=en).
 
-Before that, in 2019 I received a _Master of Business Administration (MBA)_ from [University of South Africa](https://www.unisa.ac.za/), Johannesburg, South Africa.
+Before that, in 2019 I received a _Master of Business Administration (MBA)_ from [Regent Business School](https://regent.ac.za/), Johannesburg, South Africa.
 My mini-thesis topic was titled: **Exploring the effects of mergers and acquisitions on employee job satisfaction:
 A case study of Reservations Request Inc., KwaZulu-Natal**, under the supervision of _Dr. George Hove_.
 
