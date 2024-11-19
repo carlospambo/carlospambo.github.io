@@ -1,6 +1,5 @@
 email: carlos.pambo@polymtl.ca
-description: >- # this means to ignore newlines until "baseurl:"
-  PhD Student, Polytechnique Montréal
+description: PhD Student, Polytechnique Montréal
 baseurl: ""
 url: ""
 theme: minima
