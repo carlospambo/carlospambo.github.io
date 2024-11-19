@@ -10,7 +10,3 @@ permalink: /publications
 Selected publications:
 
 | 2024 | <font color="#0000cc">Article</font> | An Evolutionary Algorithm for the Vehicle Routing Problem with Drones with Interceptions (VRPDi) | **C. Pambo**, J. Grobler. | Arxiv (Preprint) | [paper](/assets/publications/CPambo2024Algorithm.pdf), [bib](/assets/publications/bib/CPambo2024Algorithm.bib) |
- 
-[//]: # (| 2023 | <font color="#dd0000">Master's thesis</font> | An Evolutionary algorithm for the Vehicle Routing Problem with Drones with Interceptions | **C. Pambo**. | Stellenbosch University &#40;2023&#41; | [paper]&#40;/assets/publications/CPambo2023Algorithm.pdf&#41;, [bib]&#40;/assets/publications/bib/CPambo2023Algorithm.bib&#41; |)
-
-[//]: # (| 2019 | <font color="#dd0000">Master's thesis</font> | Exploring the Effects of Mergers and Acquisitions on Employee Job Satisfaction: A Case Study of Reservations Request Inc., KwaZulu-Natal | **C. Pambo**. | Regent Business School &#40;2019&#41; | [paper]&#40;/assets/publications/CPambo2019Effects.pdf&#41;, [bib]&#40;/assets/publications/bib/CPambo2019Effects.bib&#41; |)
