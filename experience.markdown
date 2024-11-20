@@ -8,7 +8,7 @@ permalink: /experience
 
 **Role:** Technical Lead | Jun. 2023 to Present
 
-Technical Lead at CGI’s telecommunication and logistics business unit, specializing in consulting for content and data-interoperability and ingestion pipeline projects.
+Technical lead at CGI’s telecommunication and logistics business unit, specializing in consulting for content and data-interoperability and ingestion pipeline projects.
 * **Team leadership:** manages a cross-functional team of software engineers, business analysts, and QA engineers, ensuring alignment with project goals and organizational standards.
 * **Responsibilities:** identifies technical and business requirements, designs system architectures, and collaborates with product owners to define project timelines and deliverables.
 * **Project oversight:** analyzes ongoing projects, compiles detailed progress reports, and communicates updates to all stakeholders; monitors team performance to ensure high-quality execution and adherence to deadlines.
