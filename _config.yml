@@ -1,8 +1,9 @@
 email: carlos.pambo@polymtl.ca
-description: PhD Student, Polytechnique Montréal (Université de Montréal)
+description: PhD Student, Polytechnique Montréal
 baseurl: ""
 url: ""
 theme: minima
+name:
 
 header_pages:
   - publications.markdown
