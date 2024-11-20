@@ -16,4 +16,4 @@ My research interests include:
 * Evolutionary computing
 
 In 2023, I earned an  _M.Eng. (Industrial Engineering)_ from [Stellenbosch University](https://www.sun.ac.za/english), Stellenbosch, South Africa, graduating **_cum laude (with distinction)_** as the top student in my class. 
-My degree specialized in _Data Science_, and my thesis, supervised by [_Prof. Jacomine Grobler_](https://scholar.google.co.za/citations?user=_Fm9-S8AAAAJ&hl=en), was titled: **An Evolutionary Algorithm for the Vehicle Routing Problem with Drones with Interceptions (VRPDi)**.
+My degree specialized in _Data Science_, and my thesis, supervised by [_Prof. Jacomine Grobler_](https://scholar.google.co.za/citations?user=_Fm9-S8AAAAJ&hl=en), was titled: **Evolutionary Algorithms for the Vehicle Routing Problem with Drones with Interceptions (VRPDi)**.

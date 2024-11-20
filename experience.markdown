@@ -19,12 +19,12 @@ Technical Lead at CGI’s telecommunication and logistics business unit, special
 **Role:** Solutions Architect | Aug. 2022 to May. 2023
 
 Solutions architect at BMW Group’s financial services business unit, focusing on the DCS and Trade-In products within the future sales model program. Played a key role in enabling BMW Group's transition to a direct-to-consumer sales model.
-Relocated to Montréal, Canada, to take on a **_Technical lead_** position at **_CGI Inc._**
+Relocated to Montréal, Canada, to take on a **Technical lead** position at **CGI Inc.**
 
 **Role:** Senior Software Engineer | Jun. 2021 to Jul. 2022
 
 Senior software engineer at BMW Group’s financial services business unit, contributing to the development of the digital checkout solution (DCS) ecosystem.
 * **DCS overview:** a highly configurable e-commerce platform facilitating seamless transactions between BMW suppliers and buyers for BMW’s branded vehicles (BMW, MINI, Motorrad, etc.), as well as parts and components, across diverse markets.
-* **Global impact:** successfully deployed in over **_36_** markets across Asia, Europe, and Australasia.
+* **Global impact:** successfully deployed in over **36** markets across Asia, Europe, and Australasia.
 * **Key contributions:** spearheaded integrations with various dealers and payment processors via BMW’s proprietary banking and payment services.
-Promoted to **_Solutions Architect_** in recognition of performance and leadership in the project.
+Promoted to **Solutions Architect** in recognition of performance and leadership in the project.
