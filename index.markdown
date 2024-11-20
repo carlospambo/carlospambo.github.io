@@ -4,29 +4,16 @@ permalink: /
 ---
 <img alt="Carlos Pambo" src="/assets/images/carlos_pambo-headshot.png" align="left" style="width:200px; margin: 10px 10px 10px 10px;" />
 
-I am a **Ph.D. Student** at the Département de Génie Informatique et Génie Logiciel (Department of Computer and Software Engineering) at [Polytechnique Montréal](https://www.polymtl.ca) ([Université de Montréal](https://www.umontreal.ca/)), Montréal, Canada, under the supervision of [_Dr. Bentley Oakes_](https://www.polymtl.ca/expertises/oakes-bentley).
+I am a **Ph.D. student** in the département de génie informatique et génie logiciel (department of computer and software engineering) at [Polytechnique Montréal](https://www.polymtl.ca), affiliated with [Université de Montréal](https://www.umontreal.ca/), Montréal, Canada. 
+My research is supervised by [_Dr. Bentley Oakes_](https://www.polymtl.ca/expertises/oakes-bentley). My research focuses on leveraging machine learning (ML) approaches to accelerate the construction of digital twins (DT) for complex cyber-physical systems.
+The aim is to minimize the cognitive and time-intensive efforts required for their development while maximizing the insights gained during the digital engineering process.
 
-My research focuses on **the use of machine learning (ML) approaches to accelerate the construction of digital twins (DT) for complex cyber-physical systems**. The goal is to minimise the cognitive and time effort for constructing these systems, while still maximize the insights gained during the digital engineering process.
+My research interests include:
+* Digital twins: structure and construction processes
+* Model-driven and ontology-driven engineering techniques
+* Machine learning applications in cyber-physical systems
+* Real-time data processing and recommendation systems
+* Evolutionary computing
 
-My main research interests include:
-* digital twins, their structures and construction process
-* model and ontology driven engineering techniques
-* application of machine learning in cyber-physical systems
-* real time data processing and recommendation systems
-* evolutionary computing
-
-In 2023 received an _M.Eng. (Industrial Engineering)_ from [Stellenbosch University](https://www.sun.ac.za/english), Stellenbosch, South Africa. 
-I graduated top of the class with distinction (**cum laude**). The degree has a specialization focus in _Data Science_. 
-My thesis was titled: **An Evolutionary Algorithm for the Vehicle Routing Problem with Drones with Interceptions (VRPDi)**, under the supervision of [_Prof. Jacomine Grobler_](https://scholar.google.co.za/citations?user=_Fm9-S8AAAAJ&hl=en).
-
-[//]: # (Before that, in 2019 I received a _Master of Business Administration &#40;MBA&#41;_ from [Regent Business School]&#40;https://regent.ac.za/&#41;, Johannesburg, South Africa.)
-
-[//]: # (My research project was titled: **Exploring the effects of mergers and acquisitions on employee job satisfaction:)
-
-[//]: # (A case study of Reservations Request Inc., KwaZulu-Natal**, under the supervision of _Dr. George Hove_.)
-
-[//]: # ()
-[//]: # (From 2012 to 2016, I attended the prestigious [Tshwane University of Technology]&#40;https://www.tut.ac.za/&#41;, Pretoria, South Africa.)
-
-[//]: # (Received a _B.Tech. &#40;Computer Engineering&#41;_. I held an internship as part of a co-operative program between the university and the [Pretoria Innovation Lab]&#40;https://www.theinnovationhub.com/&#41;.)
-
+In 2023, I earned an  _M.Eng. (Industrial Engineering)_ from [Stellenbosch University](https://www.sun.ac.za/english), Stellenbosch, South Africa, graduating **_cum laude (with distinction)_** as the top student in my class. 
+My degree specialized in _Data Science_, and my thesis, supervised by [_Prof. Jacomine Grobler_](https://scholar.google.co.za/citations?user=_Fm9-S8AAAAJ&hl=en), was titled: **An Evolutionary Algorithm for the Vehicle Routing Problem with Drones with Interceptions (VRPDi)**.
