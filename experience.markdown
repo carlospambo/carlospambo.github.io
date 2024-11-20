@@ -24,7 +24,7 @@ Relocated to Montréal, Canada, to take on a **_Technical lead_** position at **
 **Role:** Senior Software Engineer | Jun. 2021 to Jul. 2022
 
 Senior software engineer at BMW Group’s financial services business unit, contributing to the development of the digital checkout solution (DCS) ecosystem.
-* **DCS Overview:** A highly configurable e-commerce platform facilitating seamless transactions between BMW suppliers and buyers for BMW’s branded vehicles (BMW, MINI, Motorrad, etc.), as well as parts and components, across diverse markets.
-* **Global impact:** Successfully deployed in over **_36_** markets across Asia, Europe, and Australasia.
-* **Key contributions:** Spearheaded integrations with various dealers and payment processors via BMW’s proprietary banking and payment services.
+* **DCS overview:** a highly configurable e-commerce platform facilitating seamless transactions between BMW suppliers and buyers for BMW’s branded vehicles (BMW, MINI, Motorrad, etc.), as well as parts and components, across diverse markets.
+* **Global impact:** successfully deployed in over **_36_** markets across Asia, Europe, and Australasia.
+* **Key contributions:** spearheaded integrations with various dealers and payment processors via BMW’s proprietary banking and payment services.
 Promoted to **_Solutions Architect_** in recognition of performance and leadership in the project.
